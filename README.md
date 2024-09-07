@@ -132,6 +132,21 @@ For this assignment you should create one single CSS file that applies to all yo
 > [!TIP]
 > CSS validators will validate against a particular version of CSS e.g. CSS2.1 or 3. This assignment should be valid CSS3. Make sure that you are checking your CSS using the correct version of the validator. For example, if you include CSS3 markup and validate as CSS2.1 it will show errors. Do not include any proprietary CSS mark-up, such as –moz- or –webkit- etc.
  
+## Enhancements
 
+> [!WARNING]
+> Make sure you get all the basics working first before you attempt any enhancements.
+
+The technologies for developing Web applications are rapidly changing. One of the key skills you will need is finding out about these techniques (from the Web) and applying them. This assessment gives you an opportunity to demonstrate your ability to implement features/techniques that go beyond the specified requirements above. This is an opportunity to demonstrate your ability to discover techniques from a range of sources and apply them in a standards compliant manner.
+
+These enhancements need to be implemented within the Web pages (index.html, product.html, enquire.html, about.html). The extra feature needs to enhance your Web site in a relevant way.
+
+On a separate Web page called enhancements.html list and describe each enhancement you have made and how you have significantly extended the basic HTML and CSS beyond what is covered in the Tutorials. Hyperlink from this list to where the feature is implemented in your Web site. If it is a CSS feature, hyperlink to an example of the html that is selected by the CSS rule. For each enhancement feature briefly explain:
+
+[] how it goes beyond the basic requirements of the assignment
+what code is needed to implement the feature
+if you have sourced your technique from a third party the source of this technique (e.g. URL) must be cited.
+a hyperlink to where you have applied that extension in your Web site (this is needed so the tutor can quickly assess your enhancements).
+All enhancements must be able to run on Firefox or Chrome. Make sure you check this.
 
 
