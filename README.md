@@ -18,6 +18,6 @@ You will also include:
 
 In general the web pages must:
 * have relevant content
-• include the HTML markup specified in the marking guide
-• validate to HTML5 without errors
-• have a **<head>** with Title, Meta tags as specified in template (including author)
+* include the HTML markup specified in the marking guide
+* validate to HTML5 without errors
+* have a **<head>** with Title, Meta tags as specified in template (including author)
