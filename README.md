@@ -144,9 +144,60 @@ These enhancements need to be implemented within the Web pages (index.html, prod
 On a separate Web page called enhancements.html list and describe each enhancement you have made and how you have significantly extended the basic HTML and CSS beyond what is covered in the Tutorials. Hyperlink from this list to where the feature is implemented in your Web site. If it is a CSS feature, hyperlink to an example of the html that is selected by the CSS rule. For each enhancement feature briefly explain:
 
 - [x] how it goes beyond the basic requirements of the assignment
-- [ ] what code is needed to implement the feature
-- [ ] if you have sourced your technique from a third party the source of this technique (e.g. URL) must be cited.
-- [ ] a hyperlink to where you have applied that extension in your Web site (this is needed so the tutor can quickly assess your enhancements).
-- [ ] All enhancements must be able to run on Firefox or Chrome. Make sure you check this.
+- [x] what code is needed to implement the feature
+- [x] if you have sourced your technique from a third party the source of this technique (e.g. URL) must be cited.
+- [x] a hyperlink to where you have applied that extension in your Web site (this is needed so the tutor can quickly assess your enhancements).
+- [x] All enhancements must be able to run on Firefox or Chrome. Make sure you check this.
+
+A maximum of 2 enhancements will be assessed (up to 10 marks each). Examples of HTML/CSS enhancements include:
+* Effective, appropriate and innovative use of a number of distinct HTML elements not covered in tutorials (e.g. Image maps) used in a way that improves the user experience of the website.
+* A number of additional CSS properties or selectors (e.g. support for interactivity) not covered in the tutorials. For example the use of a range CSS3 pseudo-elements and classes, child or siblings combinators, attribute selectors, etc.
+* Implement Responsive Design with additional CSS that presents your website specifically for mobile phone / tablet sized displays.
+* In addition to you standard CSS, create another CSS files that re-implements and extends the style with a library/preprocessor such as Bootstrap, LESS or Sass. Demonstrate and document a number of cool features that can be implemented using the library.
+
+Discuss your proposed enhancements with you tutor before you implement them. The number of marks you receive for an enhancement will be at the sole discretion of your tutor/marker. As a guide if the enhancement has only taken a couple of lines of code it is likely to be trivial.
+* Be relevant to / enhance the content of the website
+* Be well described (as explained above)
+* Be non-trivial.
+* Be significantly different from other features you have implemented.
+
+> [!CAUTION]
+> Do not include JavaScript in this part of the assignment.
+
+
+## Web Site Folder Structure and Deployment
+
+Create a website structured as described below. You can create additional HTML files for your content (depending on what your content requires), but the following is needed:
+
+<img width="1166" alt="Screenshot 2024-09-06 at 9 45 13 PM" src="https://github.com/user-attachments/assets/7119c458-059c-41c0-a3f9-b42b448b6813">
+
+***Notes:***
+* HTML files should only be in the base “assign1/” folder – not anywhere else.
+* All images used for the content should be stored in the “assign1/images/” folder.
+* All images used for the style should be stored in the “assign1/style/images/” folder.
+* There should be a “style.css” file in the “assign1/styles/” folder.
+* All links to your files (CSS or images) should be relative. Do not use absolute links, as these links will be broken when files are transferred for marking. No marks will be allocated if links are broken.
+
+## Some Pictures of Product
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 47 18 PM" src="https://github.com/user-attachments/assets/5da4a285-a95c-4803-a58e-8455c8d071b4">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 47 46 PM" src="https://github.com/user-attachments/assets/5b712fbe-402f-4061-8a23-f75fdc1a5d67">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 48 08 PM" src="https://github.com/user-attachments/assets/ea2119ed-33b2-4598-b331-8e30b1382504">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 48 24 PM" src="https://github.com/user-attachments/assets/36b00840-8eec-469f-8829-c275b8e66ea3">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 48 48 PM" src="https://github.com/user-attachments/assets/58e89a6c-c5ae-4aaf-8dda-74b750e644f0">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 49 15 PM" src="https://github.com/user-attachments/assets/2cbb845c-e979-444d-96b1-94d81e6666d3">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 49 32 PM" src="https://github.com/user-attachments/assets/dd99e6a1-952d-466b-b2f8-2d298a625d9e">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 49 51 PM" src="https://github.com/user-attachments/assets/1b3c9a80-485f-4746-8287-3f770a1f3352">
+
+<img width="1280" alt="Screenshot 2024-09-06 at 9 50 12 PM" src="https://github.com/user-attachments/assets/6f663de9-0a5c-438a-ba5a-4b49d458c9c0">
+
+
 
 
