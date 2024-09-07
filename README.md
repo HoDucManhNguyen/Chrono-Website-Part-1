@@ -143,10 +143,10 @@ These enhancements need to be implemented within the Web pages (index.html, prod
 
 On a separate Web page called enhancements.html list and describe each enhancement you have made and how you have significantly extended the basic HTML and CSS beyond what is covered in the Tutorials. Hyperlink from this list to where the feature is implemented in your Web site. If it is a CSS feature, hyperlink to an example of the html that is selected by the CSS rule. For each enhancement feature briefly explain:
 
-[ ] how it goes beyond the basic requirements of the assignment
-what code is needed to implement the feature
-if you have sourced your technique from a third party the source of this technique (e.g. URL) must be cited.
-a hyperlink to where you have applied that extension in your Web site (this is needed so the tutor can quickly assess your enhancements).
-All enhancements must be able to run on Firefox or Chrome. Make sure you check this.
+- [ ] how it goes beyond the basic requirements of the assignment
+- [ ] what code is needed to implement the feature
+- [ ] if you have sourced your technique from a third party the source of this technique (e.g. URL) must be cited.
+- [ ] a hyperlink to where you have applied that extension in your Web site (this is needed so the tutor can quickly assess your enhancements).
+- [ ] All enhancements must be able to run on Firefox or Chrome. Make sure you check this.
 
 
