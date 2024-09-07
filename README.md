@@ -15,3 +15,5 @@ It is up to you to provide details of the particular product or service and its 
 * A page that lists any enhancements you have made (enhancements.html) </br>
 You will also include:
 * A CSS file that styles your website (style.css).
+
+In general the web pages must:
