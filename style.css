@@ -971,7 +971,7 @@ h4.product_h4 {
 
 /* The banner section starts */
 #banner {
-  background-image: url("/images/home.jpeg");
+  background-image: url("../images/home.jpeg");
   height: 100vh;
   width: 100%;
   background-size: cover;
