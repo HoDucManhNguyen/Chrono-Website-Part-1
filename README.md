@@ -198,6 +198,9 @@ Create a website structured as described below. You can create additional HTML f
 
 <img width="1280" alt="Screenshot 2024-09-06 at 9 50 12 PM" src="https://github.com/user-attachments/assets/6f663de9-0a5c-438a-ba5a-4b49d458c9c0">
 
+## Link Demo
+https://hoducmanhnguyen.github.io/Chrono-Website-Part-1/product.html![image](https://github.com/user-attachments/assets/c931f44b-51b2-4a07-bfe8-0ed14af87fa8)
+
 
 ## Authors
 
