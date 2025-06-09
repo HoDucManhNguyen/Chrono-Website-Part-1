@@ -91,6 +91,7 @@ This project incorporates several refinements beyond fundamental static web deve
 Live Demo: [Chrono Website](https://hoducmanhnguyen.github.io/Chrono-Website-Part-1/product.html)
 
 ## Author
-**Manh Nguyen (Harry)**  
-📧 Email: [manhnhd.vn@gmail.com](mailto:manhnhd.vn@gmail.com)  
-🔗 LinkedIn: [Manh Nguyen](https://www.linkedin.com/in/harrryy/)  
+
+**Manh Nguyen**\
+📧 Email: [manhnhd.vn@gmail.com](mailto\:manhnhd.vn@gmail.com)\
+🔗 LinkedIn: [Manh Nguyen](https://www.linkedin.com/in/harrryy/)
